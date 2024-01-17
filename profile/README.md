@@ -3,3 +3,4 @@
 ### <p align="center">Discord: .gg/yourcode
 
 &nbsp;
+![Discord](https://img.shields.io/discord/1166428656478990469?style=for-the-badge&link=https%3A%2F%2Fdiscord.gg%2Fyourcode)
